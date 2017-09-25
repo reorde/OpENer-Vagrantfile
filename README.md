@@ -12,8 +12,8 @@ How-To
 * Install Oracle VirtualBox
 * Install Vagrant
 * Install ChefDK
-* Run command 'vagrant install plugin vagrant-omnibus'
-* Run command 'vagrant install plugin vagrant-berkshelf'
+* Run command 'vagrant plugin install vagrant-omnibus'
+* Run command 'vagrant plugin install vagrant-berkshelf'
 * Clone the repository into a new folder
 * Run command 'vagrant up'
 
